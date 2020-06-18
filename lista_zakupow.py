@@ -9,4 +9,4 @@ for i, a in lista_zakupów.items():
     print("Idę do %s"%i,"i kupuję tu następujące rzeczy:%s"%a)
 sum = sum([len(a) for i, a in lista_zakupów.items()])
 print("W sumie kupuję %s"%sum, "produktów")
-#zmianaaaaaaaaaaa
+input("Oceń program w skali 1-10")
