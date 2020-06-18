@@ -7,5 +7,5 @@ for i, a in lista_zakupów.items():
         a[b] = a[b].capitalize()
     i = i.capitalize()
     print("Idę do %s"%i,"i kupuję tu następujące rzeczy:%s"%a)
-
-
+sum = sum([len(a) for i, a in lista_zakupów.items()])
+print("W sumie kupuję %s"%sum, "produktów")
