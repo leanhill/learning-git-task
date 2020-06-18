@@ -11,3 +11,4 @@ sum = sum([len(a) for i, a in lista_zakupów.items()])
 print("W sumie kupuję %s"%sum, "produktów")
 input("Oceń program w skali 1-10")
 # Zakończono projekt
+#SERDECZNIE POZDRAWIAM MOJEGO MENTORA! KURS I WSPÓŁPRACA TAK MI SIE PODOBA, ŻE NIE MOGE SIE ODERWAĆ I SIEDZĘ PO NOCACH! ;)
